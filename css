@@ -1,0 +1,73 @@
+a {
+  text-decoration:none;
+}
+div {
+  width:1010px
+}
+#home {
+  width:auto;
+  height:80px;
+  background-color:grey;
+  margin-left:5px;
+  margin-bottom:30px;
+}
+body {
+    background-image: url("http://images.designtrends.com/wp-content/uploads/2016/02/24060927/Seamless-Abstract-Hand-Drawn-Line-Pattern.jpg");
+}
+  #body {
+    word-wrap: break-word;
+    overflow-x: scroll;
+    width: 50px;
+  background-color:lightgrey;
+  width:1010px;
+  height:370px;
+  margin-bottom:-2px;
+}
+input {
+  border-radius:50px;
+  font-size:30px;
+  height:10px;
+  width:900px;
+}
+#name {
+  height:40px;
+  font-size:30px;
+  color:black;
+  margin-top:10px;
+  width:295px;
+}
+#text {
+  margin-top:10px;
+  height:50px;
+}
+#below {
+  line-height:20px;
+  text-align:center;
+  background-color:blue;
+  height:150px;
+}
+#top {
+  
+  background-color:blue;
+  height:50px;
+}
+p {
+  font-size:20px;
+  margin-bottom:5px;
+}
+#talkey {
+  margin-top:3px;
+}
+.textbox {
+  border: 10px solid;
+  margin-top:50px;
+  background-color:green;
+  width:auto;
+  height:auto;
+}
+h1 {
+  text-align:center;
+  color:white;
+  margin-top:5px;
+  font-family:fantasy;
+}
